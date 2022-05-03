@@ -1,5 +1,6 @@
 # Grupo_28_AYVD
-Análisis y visualización de datos
+Análisis y visualización de datos - DIPLOMATURA EN CIENCIA DE DATOS, APRENDIZAJE AUTOMÁTICO Y SUS APLICACIONES - FAMAF
+
 Entregables finales. 
 
 Integrantes:
